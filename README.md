@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilylin17
 - 👀 I’m a software engineering intern on the vault cryptosec team
-- 🌱 I’m currently learning more about cryptography/pki!
+- 🎓 I'm a third year software engineering student at the university of waterloo
 - 📫 Feel free to send me a slack message anytime (my name is Emily Lin)
 
 <!---
